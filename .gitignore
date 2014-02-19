@@ -1,0 +1,7 @@
+*.pyc
+*.rdb
+*~
+#Test Data
+*.dat
+#Virtualenv
+env/
