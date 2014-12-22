@@ -7,7 +7,9 @@ class phaseIdent:
         self.miller = dict()
         self.ratios = dict()
         self.fitLimits = dict()
-    
+
+    #test comment
+
         ###  pm3m miller indices
         pm3m_ind = []
         (self.miller)['pm3m'] = pm3m_ind
